@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	bot, err := tgbotapi.NewBotAPI("1151152699:AAGpIAx7ek89UoDca-WmRYV3OjxZmhVvouk")
+	bot, err := tgbotapi.NewBotAPI("1151152699:AAGpIAx7ek89UoDca-**************")
 	if err != nil {
 		log.Fatal(err)
 	}
